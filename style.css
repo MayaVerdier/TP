@@ -77,11 +77,11 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #FF8C00;
+  color: #FFFF00;
 }
 
 #logo{
-  color: #FF8C00;
+  color: #FFFF00;
   font-size: 35px;
   font-family: 'Phosphate', cursive;
 }
